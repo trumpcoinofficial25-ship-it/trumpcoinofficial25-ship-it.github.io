@@ -14,9 +14,9 @@ Calculations use only values entered in the browser and are planning estimates, 
 
 More small tools from the same independent project family. Each destination explains its inputs, assumptions and limits.
 
-- [PityLab gacha probability tools](https://pitylab.replay-trace.pages.dev/)
-- [Shelfwise library shelf planning](https://shelfwise.replay-trace.pages.dev/)
-- [Paintline miniature-painting deadline planning](https://paintline.replay-trace.pages.dev/)
-- [Terrainwise miniature terrain fit checker](https://terrainwise.replay-trace.pages.dev/)
-- [Loftline sail deadline planning](https://loftline.replay-trace.pages.dev/)
+- [PityLab gacha probability tools](https://replay-trace.pages.dev/pitylab/)
+- [Shelfwise library shelf planning](https://replay-trace.pages.dev/shelfwise/)
+- [Paintline miniature-painting deadline planning](https://replay-trace.pages.dev/paintline/)
+- [Terrainwise miniature terrain fit checker](https://replay-trace.pages.dev/terrainwise/)
+- [Loftline sail deadline planning](https://replay-trace.pages.dev/loftline/)
 - [Replay Trace Tasker notification diagnostics](https://replay-trace.pages.dev/)
