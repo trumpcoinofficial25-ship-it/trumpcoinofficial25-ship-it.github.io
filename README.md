@@ -14,6 +14,8 @@ Calculations use only values entered in the browser and are planning estimates, 
 
 More small tools from the same independent project family. Each destination explains its inputs, assumptions and limits.
 
+- [Browse the complete 31-page tools directory](https://trumpcoinofficial25-ship-it.github.io/tools-directory/)
+
 - [PityLab gacha probability tools](https://replay-trace.pages.dev/pitylab/)
 - [Shelfwise library shelf planning](https://replay-trace.pages.dev/shelfwise/)
 - [Paintline miniature-painting deadline planning](https://replay-trace.pages.dev/paintline/)
